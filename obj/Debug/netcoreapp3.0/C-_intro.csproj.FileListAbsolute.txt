@@ -1,0 +1,11 @@
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\bin\Debug\netcoreapp3.0\C-_intro.exe
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\bin\Debug\netcoreapp3.0\C-_intro.deps.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\bin\Debug\netcoreapp3.0\C-_intro.runtimeconfig.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\bin\Debug\netcoreapp3.0\C-_intro.runtimeconfig.dev.json
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\bin\Debug\netcoreapp3.0\C-_intro.dll
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\bin\Debug\netcoreapp3.0\C-_intro.pdb
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\obj\Debug\netcoreapp3.0\C-_intro.csprojAssemblyReference.cache
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\obj\Debug\netcoreapp3.0\C-_intro.AssemblyInfoInputs.cache
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\obj\Debug\netcoreapp3.0\C-_intro.AssemblyInfo.cs
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\obj\Debug\netcoreapp3.0\C-_intro.dll
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\C-_intro\obj\Debug\netcoreapp3.0\C-_intro.pdb
